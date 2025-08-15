@@ -14,14 +14,14 @@ Requirements ⚙️
 Python 3.8+
 Required libraries: pip install -r requirements.txt
 Installation 📦
-git clone https://github.com/NazaninNazari/Origin_Recon.git
-cd Origin_Recon-tools
+git clone https://github.com/qaisarafridi/IpReconzer
+cd IpReconzer
 
 # install dependencies
 pip install -r requirements.txt
 
 #Usage
-python origin_recon.py -d example.com [--ssl] [--output results.json]
+python IpReconzer.py -d example.com [--ssl] [--output results.json]
 
 ## Options
 -d & --domain --> Target domain (required)
