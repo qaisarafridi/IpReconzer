@@ -26,7 +26,7 @@ cd IpReconzer
 pip install -r requirements.txt
 
 #Usage
-python origin_recon.py -d example.com [--ssl] [--output results.json]
+python IpReconzer.py -d example.com [--ssl] [--output results.json]
 
 ## Options
 -d & --domain --> Target domain (required)
