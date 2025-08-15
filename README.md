@@ -1,7 +1,7 @@
-# N0aziXss Origin Recon v3.1 🍓
+# IpReconzer Origin Recon v3.1 🍓
 
 ## 🌟 Introduction
-**N0aziXss Origin Recon** Advanced reconnaissance tool for subdomain enumeration, IP analysis, and origin server detection with multi-layer security checks.
+**IpReconzer Origin Recon** Advanced reconnaissance tool for subdomain enumeration, IP analysis, and origin server detection with multi-layer security checks.
 
 ## Features ✨
 - Subdomain extraction via Certificate Transparency (CRT.sh)
@@ -19,8 +19,8 @@
 
 ## Installation 📦
 ```bash
-git clone https://github.com/NazaninNazari/Origin_Recon.git
-cd Origin_Recon-tools
+git clone https://github.com/qaisarafridi/IpReconzer
+cd IpReconzer
 
 # install dependencies
 pip install -r requirements.txt
